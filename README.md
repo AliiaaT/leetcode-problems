@@ -1,2 +1,2 @@
 # leetcode-problems
-leetcode problems practice(A&amp;DS)
+Click [here](https://leetcode.com/aliyatemirbekk/) to go to my Leetcode profile. 
